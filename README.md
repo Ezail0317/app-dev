@@ -2,7 +2,8 @@
 My fIrst repository
 
 
-![Uploading image.png…]()
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/bd26ce36-5e29-4193-a879-7377a3e6ef4d" />
+
 
 
 # Cyberpunk: Edgerunners
