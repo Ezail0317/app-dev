@@ -1,3 +1,6 @@
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/32dbb4e2-0fdd-4705-86ab-7f57b1068887" />
+
+
 # app-dev
 My fIrst repository
 
