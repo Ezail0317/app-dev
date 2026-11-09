@@ -1,10 +1,11 @@
+
 # Cyberpunk: Edgerunners
 
 > *"Stay at your house, or stay at my place?"*
 
 **Cyberpunk: Edgerunners** is a 2022 sci-fi anime series created by *Studio Trigger* and *CD Projekt Red*, set in the dystopian universe of Night City.
 
----
+
 
 ### Key Information
 
@@ -18,12 +19,15 @@
 2. **Lucy** - A skilled netrunner who dreams of escaping Night City and traveling to the Moon.
 3. **Maine** - The veteran leader of the mercenary crew.
 
+### Villains
+1. **Adam Smasher** - In Cyberpunk 2077 and its animated prequel, Cyberpunk: Edgerunners, Adam Smasher is a secondary antagonist. Once a New York street punk and suspected serial killer, he becomes a cyborg after a disastrous job. Arasaka, the corporation that saves him, employs him as a bodyguard and enforcer.
+2. **Arasaka** - The Arasaka Corporation is the longest-operating megacorp in the world. Its origins date back to the mid-20th century when a young Saburo Arasaka inherited his father's nascent company, transforming it into a global leader in security
+
 ### Quick Overview
 
-| Category | Rating / Details |
+|Category|Rating/Details|
 | :--- | :--- |
 | **Animation** | Visually striking, high-energy action |
 | **Soundtrack** | Synthwave & Cyberpunk tracks |
 | **My Score** | 10 / 10 |
 
-For more details, check out the [Official Cyberpunk Webpage](https://www.cyberpunk.net/).
